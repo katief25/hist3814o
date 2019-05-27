@@ -1,8 +1,8 @@
-Exercise 1
-•	Unsure how to create new file with nano
-•	Opened $nano dhbox-work-today.md
-•	Added notes about exercise to that file
-•	Saved to file command, downloaded and then uploaded into github repository under week 3
+# Exercise 1
+1. Unsure how to create new file with nano
+2. Opened $nano dhbox-work-today.md
+3.	Added notes about exercise to that file
+4.	Saved to file command, downloaded and then uploaded into github repository under week 3
 
  Exercise 2
 •	Tried typing $wget-active history, said not found
