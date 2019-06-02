@@ -9,3 +9,4 @@
 5. When I clicked text facet, it said that there were too many results to display... not sure what I can do to change this and make the results visible
 6. I changed the number of results to appear from 1000 to 200, and it allowed the results to show up!
 7. I didn't get many results for merging, so I have to change my method to try and reduce this number. 
+For the column sender, I have 194 choices whereas for recipient I have 30 choices... not sure that this is correct
