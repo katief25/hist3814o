@@ -7,3 +7,4 @@
 3. I ended up editing in excel, making sure that they were their own 3 columns, and when I uploaded it onto openrefine, it worked
 4. I ended up with way more entries then I needed... have to go back to first exercise because I must not have cleaned up my file properly 
 5. When I clicked text facet, it said that there were too many results to display... not sure what I can do to change this and make the results visible
+6. I changed the number of results to appear from 1000 to 200, and it allowed the results to show up!
