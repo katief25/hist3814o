@@ -16,4 +16,6 @@
 For the column sender, I have 194 choices whereas for recipient I have 30 choices... not sure that this is correct
 
 # Exercise 3
-I've read the instructions multiple times, and I'm not completely sure what I'm supposed to do... have to go reread the parts about sed and grep to try and understand better
+1. I've read the instructions multiple times, and I'm not completely sure what I'm supposed to do... have to go reread the parts about sed and grep to try and understand better
+2. Still unable to fully understand what to do here... I'm stuck
+3. Will have to try and read and understand these ideas better, so that I'm able to move forward this upcoming week
