@@ -7,6 +7,7 @@ I think that historians tend to dismiss this work, because of fear of failure an
 # Exercises
 
 The exercises this week went more smoothly than some of the past weeks for sure. 
+
 The first exercise went really well. I was able to get through it in one shot (I thought) without too much confusion. It definitely felt good to start off on a good foot, and not get stuck on the first exercise. The Regex tools were super interesting to play around with and see what they can do for documents and research that needs cleaning up. It was interesting to see the different tools that are avaiable and I learned a lot from doing this.  
 
 The second exercise went fairly well also. I did run into a few problems when I tried to upload my csv document into OpenRefine. I had felt confident in completing the first exercise, however when I uploaded this document, it didn't appear correctly. There were not 3 separate columns, but rather just the sender column appeared. I realized I needed to go back to the first exercise and figure out where I went wrong. I tried to change the format of the index.txt by taking away spaces and adding quotations around sender, recipient and date. This all ended up coming up in the same, incorrect format in OpenRefine, so I ended up just creating 3 columns in the csv document. When I did this it came up properly, so that's what I stuck with (despite being unsure if that was the way I was supposed to do it). 
