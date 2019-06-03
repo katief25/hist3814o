@@ -1,4 +1,4 @@
-# Readings (think about how concepts in readings and exercises are builiding/challenging knowledge)
+# Readings 
 
 The readings and exercises are definitely working to improve our data mining skills, as well as helping us to figure out how to transform data that is very messy, into easier and cleaner formats. The exercises this week definitely tied in directly to the readings, but being able to grasp a better understanding of what the authors are talking about when discussing their projects and the issues that they ran into. I found it encouraging to read about professionals and academics who ran into issues with their projects, before trying to do the exercises. It helped me to realize that not everything will go as planned, even for those who are in this field of study. We all run into problems, despite the fact that we may think we know everything that we need to successfully complete what is needed.
 
